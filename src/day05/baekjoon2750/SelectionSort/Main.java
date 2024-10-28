@@ -28,7 +28,7 @@ public class Main {
         int n = arr.length;
 
         for(int i=0; i<n-1; i++){
-            // 현재 순회중인 위치에 들어갈 최소값의 위치르 ㄹ찾음
+            // 현재 순회중인 위치에 들어갈 최소값의 위치를 찾음
             int min_idx = i;
             for(int j=i+1; j<n; j++){
                 if(arr[j] < arr[min_idx]) min_idx = j;
