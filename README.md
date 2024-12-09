@@ -27,22 +27,22 @@
 ### day05
 - 백트래킹
 - 정렬(Sort)
-      - Bubble Sort
-      - insertion Sort
-      - Selection Sort
+    - Bubble Sort
+    - insertion Sort
+    - Selection Sort
 
 ### day06
 - 정렬(Sort)
-      - Quick Sort
-      - Merge Sort
-      - Counting Sort
-      - Heap Sort
+    - Quick Sort
+    - Merge Sort
+    - Counting Sort
+    - Heap Sort
 
 ### day07
 - 선형 탐색
-      - 이진 탐색
+    - 이진 탐색
 - 그리디
-      - 그리디 문제풀이
+    - 그리디 문제풀이
 
 ### day08
 - 그래프(Graph)
